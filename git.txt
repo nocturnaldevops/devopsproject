@@ -1,0 +1,2 @@
+Git is a tool created by Linus Torvalds
+Git is a Distributed Version Controlling Tool

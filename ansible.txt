@@ -1,0 +1,3 @@
+Hello world!
+ansible is written in Python
+Ansible is push based config management tool
